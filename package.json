@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "name": "111b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
